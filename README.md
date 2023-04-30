@@ -73,7 +73,6 @@
 <details align="left">
   <summary><h2><b>GitHub Stats</b></h2></summary>
     <p align="center">
-      <img alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=MrVeit&show_icons=true&theme=tokyonight"/>
       <img alt="CommitStreak" src="https://streak-stats.demolab.com/?user=MrVeit&theme=tokyonight"/><br>
       <img alt="PopularLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVeit&layout=compact&theme=tokyonight"/>
       <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MrVeit&theme=algolia"/>
