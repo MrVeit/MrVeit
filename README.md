@@ -26,9 +26,10 @@
           </p>
       </details>
       <details align="center">
-        <summary><h3><b>Game Engines</b></h3></summary>
+        <summary><h3><b>Game Engines/Frameworks</b></h3></summary>
           <p>
             <img alt="Unity" src="https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity"/>
+            <img alt="WPF" src="https://img.shields.io/badge/-WPF-090900?style=for-the-badge&logo=windows&logoColor=blue&color=black"/>
           </p>
       </details>
       <details align="center">
@@ -54,7 +55,7 @@
         <summary><h3><b>Unity</b></h3></summary>
           <p>
             <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=GooglePlay"/>
-            <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=AppStore"/>
+            <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=AppStore&logoColor=white"/>
             <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
           </p>
       </details>
@@ -70,9 +71,7 @@
 <details align="left">
   <summary><h2><b>GitHub Stats</b></h2></summary>
     <p align="center">
-      <img alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=MrVeit&show_icons=true&theme=tokyonight"/>
-      <img alt="CommitStreak" src="https://streak-stats.demolab.com/?user=MrVeit&theme=tokyonight"/><br>
-      <img alt="ContributionGraph" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrVeit&theme=tokyonight"/>
+
     </p>
 </details>
 
