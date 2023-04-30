@@ -74,7 +74,7 @@
   <summary><h2><b>GitHub Stats</b></h2></summary>
     <p align="left">
       <img alt="CommitStreak" src="https://streak-stats.demolab.com/?user=MrVeit&theme=tokyonight"/><br>
-      <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MrVeit&theme=tokyonight&row=2&column=3&title=Commits,PullRequest,Repositories,Stars,Followers"/>
+      <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MrVeit&theme=tokyonight&row=2&column=3&title=MultiLanguage,Commits,PullRequest,Repositories,Stars,Followers"/>
       <img alt="PopularLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVeit&layout=compact&theme=tokyonight"/>
     </p>
 </details>
