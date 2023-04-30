@@ -13,16 +13,16 @@
       <details align="center">
         <summary><h3><b>Programming language</b></h3></summary>
           <p>
-              <img alt="C#" src="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=8333FF"/>
-              <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00FFFF"/>
+              <img alt="C#" src="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=FF00FF"/>
+              <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF"/>
           </p>
       </details>
       <details align="center">
         <summary><h3><b>IDE</b></h3></summary>
           <p>
-              <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=crimson&color=black"/>
-              <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=green&color=black"/>
-              <img alt="Visual Studio" src="https://img.shields.io/badge/VS-000000.svg?style=for-the-badge&logo=VisualStudio&logoColor=violet&color=black"/>
+              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=VisualStudio&logoColor=9400D3&color=black"/>
+              <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=DC143C&color=black"/>
+              <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=FFFF00&color=black"/>
           </p>
       </details>
       <details align="center">
@@ -30,6 +30,8 @@
           <p>
             <img alt="Unity" src="https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity"/>
             <img alt="WPF" src="https://img.shields.io/badge/-WPF-090900?style=for-the-badge&logo=windows&logoColor=blue&color=black"/>
+            <img alt="Aiogram" src="https://img.shields.io/badge/-Aiogram-090900?style=for-the-badge&logo=Telegram&color=black"/>
+            <img alt="Selenium" src="https://img.shields.io/badge/-Selenuim-090900?style=for-the-badge&logo=opera&logoColor=6A5ACD&color=black"/>
           </p>
       </details>
       <details align="center">
@@ -55,14 +57,14 @@
         <summary><h3><b>Unity</b></h3></summary>
           <p>
             <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=GooglePlay"/>
-            <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=AppStore&logoColor=white"/>
+            <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=AppStore"/>
             <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
           </p>
       </details>
       <details align="center">
         <summary><h3><b>Python + Aiogram</b></h3></summary>
           <p>
-            <img alt="Benizon" src="https://img.shields.io/badge/-Benizon-090909?style=for-the-badge&logo=telegram&logoColor=blue"/>
+            <img alt="Benizon" src="https://img.shields.io/badge/-Benizon-090909?style=for-the-badge&logo=Telegram"/>
           </p>
       </details>
     </p>
@@ -71,7 +73,10 @@
 <details align="left">
   <summary><h2><b>GitHub Stats</b></h2></summary>
     <p align="center">
-
+      <img alt="GitHubStats" src="https://github-readme-stats.vercel.app/api?username=MrVeit&show_icons=true&theme=tokyonight"/>
+      <img alt="CommitStreak" src="https://streak-stats.demolab.com/?user=MrVeit&theme=tokyonight"/><br>
+      <img alt="PopularLanguage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVeit&layout=compact&theme=tokyonight"/>
+      <img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=MrVeit&theme=algolia"/>
     </p>
 </details>
 
