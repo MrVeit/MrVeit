@@ -1,5 +1,3 @@
-# **Veit.dat**
-
 <details align="left">
   <summary><h2><b>About me</b></h2></summary>
     <p>
