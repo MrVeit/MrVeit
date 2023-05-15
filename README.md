@@ -56,6 +56,7 @@
        <details align="center">
         <summary><h3><b>Unity</b></h3></summary>
           <p>
+            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=GooglePlay"></a>
             <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=GooglePlay"/>
             <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=AppStore"/>
             <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
@@ -80,7 +81,7 @@
 </details>
 
 <details align="left">
-  <summary><h2><b>Contacts</b></h2></summary>
+  <p align="left">
     <a href="https://t.me/MrVeit"><img src="https://img.shields.io/badge/Telegram-090909.svg?style=for-the-badge&logo=Telegram&color=black"/></a>
     <a href="https://t.me/UnityAssetshop"><img src="https://img.shields.io/badge/Benizon Shop-090909.svg?style=for-the-badge&logo=Telegram&color=black"/></a>
 </details>
