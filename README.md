@@ -57,7 +57,6 @@
         <summary><h3><b>Unity</b></h3></summary>
           <p>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=GooglePlay"/>
             <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-PutOut-090909?style=for-the-badge&logo=AppStore"/>
             <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
           </p>
