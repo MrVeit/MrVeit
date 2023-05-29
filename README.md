@@ -80,7 +80,7 @@
 </details>
 
 <details align="left">
+    <summary><h2><b>Follow me:</b></h2></summary>
   <p align="left">
     <a href="https://t.me/MrVeit"><img src="https://img.shields.io/badge/Telegram-090909.svg?style=for-the-badge&logo=Telegram&color=black"/></a>
-    <a href="https://t.me/UnityAssetshop"><img src="https://img.shields.io/badge/Benizon Shop-090909.svg?style=for-the-badge&logo=Telegram&color=black"/></a>
 </details>
