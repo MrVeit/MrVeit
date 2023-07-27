@@ -57,7 +57,7 @@
         <summary><h3><b>Unity</b></h3></summary>
           <p>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <img alt="MobileGame_P2E_PutOut" src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"/>
+            <a href="https://apps.apple.com/us/app/id6448569911"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"></a>
             <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-TD:_Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.OnlyUp3D"><img src="https://img.shields.io/badge/-Only_Up:_Casual_3D_Online_Parkour-090909?style=for-the-badge&logo=GooglePlay"></a>
           </p>
