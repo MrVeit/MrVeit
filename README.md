@@ -60,7 +60,7 @@
             <a href="https://apps.apple.com/us/app/id6448569911"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"></a>
             <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-TD:_Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.OnlyUp3D"><img src="https://img.shields.io/badge/-Only_Up:_Casual_Parkour_Adventure-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cute_Cat_Tennus-090909?style=for-the-badge&logo=GooglePlay"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cute_Cat_Tennis-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/-Exoprimal:_3D_Dinosaur_Shooter-090909?style=for-the-badge&logo=GooglePlay"></a>
           </p>
       </details>
