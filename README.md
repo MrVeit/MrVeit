@@ -63,6 +63,7 @@
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cat_Tennis:_Champions_Battle-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/-Armored_Core:_3D_Mech_Shooter-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/-Starfield:_Explore_Universe-090909?style=for-the-badge&logo=GooglePlay"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/Town_Crafter:_Lazy_Building-090909?style=for-the-badge&logo=GooglePlay"></a>
           </p>
       </details>
       <details align="center">
