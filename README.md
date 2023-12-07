@@ -58,7 +58,6 @@
           <p>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/id6448569911"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"></a>
-            <img alt="MobileGame_Casual_ZombieLikesBurgers" src="https://img.shields.io/badge/-TD:_Zombie_Likes_Burgers-090909?style=for-the-badge&logo=GooglePlay"/>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.OnlyClimbOnline"><img src="https://img.shields.io/badge/-Only_Climb_Up:_Parkour-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cat_Tennis:_Champions-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/-Armored_Core:_Shooter-090909?style=for-the-badge&logo=GooglePlay"></a>
