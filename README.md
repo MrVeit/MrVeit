@@ -58,16 +58,14 @@
           <p>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/id6448569911"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.OnlyClimbOnline"><img src="https://img.shields.io/badge/-Only_Climb_Up:_Parkour-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cat_Tennis:_Champions-090909?style=for-the-badge&logo=GooglePlay"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.OnlyClimbOnline"><img src="https://img.shields.io/badge/-Only_Climb_Up-090909?style=for-the-badge&logo=GooglePlay"></a>
+            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cat_Tennis-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/-Armored_Core:_Shooter-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/-Starfield:_Explore_Universe-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.Shooter.Exoprimal"><img src="https://img.shields.io/badge/Town_Crafter:_Lazy_Building-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Difference"><img src="https://img.shields.io/badge/10_Difference-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutHunt"><img src="https://img.shields.io/badge/Put_Hunt-090909?style=for-the-badge&logo=GooglePlay"></a>
-          </p>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.MoveOut"><img src="https://img.shields.io/badge/Move_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
-          </p>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Saunposium"><img src="https://img.shields.io/badge/Saunposium-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Hamasutra"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=GooglePlay"></a>
           </p>
