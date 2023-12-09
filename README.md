@@ -55,14 +55,21 @@
     <p>
       <details align="center">
         <summary><h3><b>Simple Mobile Ads Integrator</b></h3></summary>
-        <img alt="SMAI (Appodeal)" src ="https://img.shields.io/badge/-SMAI_(Appodeal)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Iron Source)" src ="https://img.shields.io/badge/-SMAI_(Iron_Source)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (CAS)" src ="https://img.shields.io/badge/-SMAI_(CAS)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Applovin MAX)" src ="https://img.shields.io/badge/-SMAI_(Applovin_MAX)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Admob)" src ="https://img.shields.io/badge/-SMAI_(Admob)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Yandex Mobile Ad)" src ="https://img.shields.io/badge/-SMAI_(Yandex_Mobile_Ad)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMAI (Appodeal)" src ="https://img.shields.io/badge/-SMAI_(Appodeal)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMAI (Iron Source)" src ="https://img.shields.io/badge/-SMAI_(Iron_Source)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMAI (CAS)" src ="https://img.shields.io/badge/-SMAI_(CAS)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMAI (Applovin MAX)" src ="https://img.shields.io/badge/-SMAI_(Applovin_MAX)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMAI (Admob)" src ="https://img.shields.io/badge/-SMAI_(Admob)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMAI (Yandex Mobile Ad)" src ="https://img.shields.io/badge/-SMAI_(Yandex_Mobile_Ad)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
       </details>
-      </p>
+      <detailes align="center">
+        <summary><h3><b>Simple Mobile Event Logger</b></h3></summary>
+          <img alt="SMEL (Firebase)" src ="https://img.shields.io/badge/-SMEL_(Firebase)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMEL (Adjust)" src ="https://img.shields.io/badge/-SMEL_(Adjust)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMEL (Appsflyers)" src ="https://img.shields.io/badge/-SMEL_(Appsflyers)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+          <img alt="SMEL (Yandex Metrics)" src ="https://img.shields.io/badge/-SMEL_(Yandex Metrics)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+      </details>
+    </p>
 </details>
 
 <details align="left">
