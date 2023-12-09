@@ -16,6 +16,12 @@
               <img alt="C#" src="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=FF00FF"/>
               <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF"/>
           </p>
+        <summary><h3><b>IDE</b></h3></summary>
+          <p>
+              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=VisualStudio&logoColor=9400D3&color=black"/>
+              <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=DC143C&color=black"/>
+              <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=FFFF00&color=black"/>
+          </p>
       </details>
       <details align="center">
         <summary><h3><b>IDE</b></h3></summary>
@@ -55,14 +61,31 @@
     <p>
       <details align="center">
         <summary><h3><b>Simple Mobile Ads Integrator</b></h3></summary>
-        <img alt="SMAI (Appodeal)" src ="https://img.shields.io/badge/-SMAI_(Appodeal)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Iron Source)" src ="https://img.shields.io/badge/-SMAI_(Iron_Source)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (CAS)" src ="https://img.shields.io/badge/-SMAI_(CAS)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Applovin MAX)" src ="https://img.shields.io/badge/-SMAI_(Applovin_MAX)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Admob)" src ="https://img.shields.io/badge/-SMAI_(Admob)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        <img alt="SMAI (Yandex Mobile Ad)" src ="https://img.shields.io/badge/-SMAI_(Yandex_Mobile_Ad)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-Appodeal">
+          <img src ="https://img.shields.io/badge/-SMAI_(Appodeal)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-Iron_Source">
+          <img src ="https://img.shields.io/badge/-SMAI_(Iron_Source)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-CAS">
+          <img src ="https://img.shields.io/badge/-SMAI_(CAS)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-Applovin">
+          <img src ="https://img.shields.io/badge/-SMAI_(Applovin_MAX)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-Admob">
+          <img src ="https://img.shields.io/badge/-SMAI_(Admob)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-Yandex-Ads">
+          <img src ="https://img.shields.io/badge/-SMAI_(Yandex_Ads)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
       </details>
-      </p>
+      <details align="center">
+        <summary><h3><b>Simple Mobile Events Logger</b></h3></summary>
+        <a href="https://github.com/MrVeit/Veittech-SMEL-Firebase">
+          <img src ="https://img.shields.io/badge/-SMEL_(Firebase)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMEL-Adjust">
+          <img src ="https://img.shields.io/badge/-SMEL_(Adjust)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMEL-AppsFlyer">
+          <img src ="https://img.shields.io/badge/-SMEL_(AppsFlyers)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-SMEL-Yandex_Metric">
+          <img src ="https://img.shields.io/badge/-SMEL_(Yandex Metric)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+      </details>
+    </p>
 </details>
 
 <details align="left">
