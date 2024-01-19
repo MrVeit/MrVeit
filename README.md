@@ -16,12 +16,6 @@
               <img alt="C#" src="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=FF00FF"/>
               <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF"/>
           </p>
-        <summary><h3><b>IDE</b></h3></summary>
-          <p>
-              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=VisualStudio&logoColor=9400D3&color=black"/>
-              <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=DC143C&color=black"/>
-              <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=FFFF00&color=black"/>
-          </p>
       </details>
       <details align="center">
         <summary><h3><b>IDE</b></h3></summary>
