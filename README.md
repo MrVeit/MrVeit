@@ -13,10 +13,10 @@
       <details align="center">
         <summary><h3><b>Programming languages</b></h3></summary>
           <p>
-              <img alt="C#" src="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=FF00FF"/>
+              <img alt="C#" src="https://img.shields.io/badge/-Csharp-090900?style=for-the-badge&logo=sharp&logoColor=FF00FF"/>
               <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF"/>
               <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-090900?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
-              <img alt="Node JS" src="https://img.shields.io/badge/-NodeJs-090900?style=for-the-badge&logo=node&logoColor=32CD32"/>
+              <img alt="Node JS" src="https://img.shields.io/badge/-NodeJs-090900?style=for-the-badge&logo=nodedotjs&logoColor=32CD32"/>
           </p>
       </details>
       <details align="center">
