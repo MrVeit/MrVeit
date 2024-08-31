@@ -13,10 +13,10 @@
       <details align="center">
         <summary><h3><b>Programming languages</b></h3></summary>
           <p>
-              <img alt="C#" src="https://img.shields.io/badge/-Csharp-090900?style=for-the-badge&logo=sharp&logoColor=FF00FF"/>
-              <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-              <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-090900?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
-              <img alt="Node JS" src="https://img.shields.io/badge/-NodeJs-090900?style=for-the-badge&logo=nodedotjs&logoColor=32CD32"/>
+              <img alt="C#" src="https://img.shields.io/badge/-Csharp-090900?style=for-the-badge&logo=sharp&logoColor=FF00FF&color=black"/>
+              <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF&color=black"/>
+              <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-090900?style=for-the-badge&logo=javascript&logoColor=FFFF00&color=black"/>
+              <img alt="Node JS" src="https://img.shields.io/badge/-NodeJs-090900?style=for-the-badge&logo=nodedotjs&logoColor=32CD32&color=black"/>
           </p>
       </details>
       <details align="center">
@@ -31,7 +31,7 @@
       <details align="center">
         <summary><h3><b>Game Engines/Frameworks</b></h3></summary>
           <p>
-            <img alt="Unity" src="https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity"/>
+            <img alt="Unity" src="https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity&color=black"/>
             <img alt="WPF" src="https://img.shields.io/badge/-WPF-090900?style=for-the-badge&logo=windows&logoColor=blue&color=black"/>
             <img alt="Aiogram" src="https://img.shields.io/badge/-Aiogram-090900?style=for-the-badge&logo=Telegram&color=black"/>
             <img alt="Selenium" src="https://img.shields.io/badge/-Selenuim-090900?style=for-the-badge&logo=opera&logoColor=6A5ACD&color=black"/>
@@ -40,15 +40,15 @@
       <details align="center">
         <summary><h3><b> Version Control Systems</b></h3></summary>
           <p>
-            <img alt="Git" src ="https://img.shields.io/badge/-Git-090900?style=for-the-badge&logo=git&logoColor=sky"/>
-            <img alt="Gitlab" src ="https://img.shields.io/badge/-Gitlab-090900?style=for-the-badge&logo=gitlab&logoColor=sky"/>
+            <img alt="Git" src ="https://img.shields.io/badge/-Git-090900?style=for-the-badge&logo=git&logoColor=sky&color=black"/>
+            <img alt="Gitlab" src ="https://img.shields.io/badge/-Gitlab-090900?style=for-the-badge&logo=gitlab&logoColor=sky&color=black"/>
           </p>
       </details>
       <details align="center">
         <summary><h3><b>Management</b></h3></summary>
           <p>
-            <img alt="GitHub" src ="https://img.shields.io/badge/-GitHub-090900?style=for-the-badge&logo=github&logoColor=sky"/>
-            <img alt="Trello" src="https://img.shields.io/badge/-Trello-090900?style=for-the-badge&logo=trello&logoColor=blue"/>
+            <img alt="GitHub" src ="https://img.shields.io/badge/-GitHub-090900?style=for-the-badge&logo=github&logoColor=sky&color=black"/>
+            <img alt="Trello" src="https://img.shields.io/badge/-Trello-090900?style=for-the-badge&logo=trello&logoColor=blue&color=black"/>
           </p>
       </details>
     </p>
