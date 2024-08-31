@@ -15,12 +15,15 @@
           <p>
               <img alt="C#" src="https://img.shields.io/badge/-C%23-090900?style=for-the-badge&logo=csharp&logoColor=FF00FF"/>
               <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+              <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-090900?style=for-the-badge&logo=javascript&logoColor=FFFF00"/>
+              <img alt="Node JS" src="https://img.shields.io/badge/-NodeJs-090900?style=for-the-badge&logo=node&logoColor=32CD32"/>
           </p>
       </details>
       <details align="center">
         <summary><h3><b>IDE</b></h3></summary>
           <p>
-              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=VisualStudio&logoColor=9400D3&color=black"/>
+              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=Visual_Studio&logoColor=9400D3&color=black"/>
+              <img alt="VS Code" src="https://img.shields.io/badge/VS Code-000000.svg?style=for-the-badge&logo=VS_Code&logoColor=1E90FF&color=black"/>
               <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=DC143C&color=black"/>
               <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=FFFF00&color=black"/>
           </p>
@@ -38,6 +41,7 @@
         <summary><h3><b> Version Control Systems</b></h3></summary>
           <p>
             <img alt="Git" src ="https://img.shields.io/badge/-Git-090900?style=for-the-badge&logo=git&logoColor=sky"/>
+            <img alt="Gitlab" src ="https://img.shields.io/badge/-Gitlab-090900?style=for-the-badge&logo=gitlab&logoColor=sky"/>
           </p>
       </details>
       <details align="center">
@@ -53,6 +57,17 @@
 <details align="left">
   <summary><h2><b>My Open Source Projects</b></h2></summary>
     <p>
+      <details align="center">
+        <summary><h3><b>Telegram Libraries</b></h3></summary>
+        <a href="https://github.com/MrVeit/Veittech-UnitonConnect">
+          <img src ="https://img.shields.io/badge/-Uniton_Connect-090900?style=for-the-badge&logo=ton&logoColor=#00FFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-UnigramPayment">
+          <img src ="https://img.shields.io/badge/-Unigram_Payment-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-UnigramAds">
+          <img src ="https://img.shields.io/badge/-Unigram_Ads-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-UnigramAuth">
+          <img src ="https://img.shields.io/badge/-Unigram_Auth-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
+      </details>
       <details align="center">
         <summary><h3><b>Simple Mobile Ads Integrator</b></h3></summary>
         <a href="https://github.com/MrVeit/Veittech-SMAI-Appodeal">
