@@ -29,12 +29,23 @@
           </p>
       </details>
       <details align="center">
-        <summary><h3><b>Game Engines/Frameworks</b></h3></summary>
+        <summary><h3><b>Frameworks/Libraries</b></h3></summary>
           <p>
             <img alt="Unity" src="https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity&color=black"/>
             <img alt="WPF" src="https://img.shields.io/badge/-WPF-090900?style=for-the-badge&logo=windows&logoColor=blue&color=black"/>
-            <img alt="Aiogram" src="https://img.shields.io/badge/-Aiogram-090900?style=for-the-badge&logo=Telegram&color=black"/>
-            <img alt="Selenium" src="https://img.shields.io/badge/-Selenuim-090900?style=for-the-badge&logo=opera&logoColor=6A5ACD&color=black"/>
+            <img alt="Firebase (analytics, database)" src="https://img.shields.io/badge/-Firebase-090900?style=for-the-badge&logo=firebase&logoColor=yellow&color=black"/>
+            <img alt="Telegram Bot API" src="https://img.shields.io/badge/-Telegram_Bot_API-090900?style=for-the-badge&logo=telegram&logoColor=blue&color=black"/>
+            <img alt="Telegram Web App API" src="https://img.shields.io/badge/-Telegram_Web_App_API-090900?style=for-the-badge&logo=telegram&logoColor=blue&color=black"/>
+            <img alt="Ton Connect" src="https://img.shields.io/badge/-Ton Connect-090900?style=for-the-badge&logo=ton&logoColor=blue&color=black"/>
+          </p>
+      </details>
+      <details align="center">
+        <summary><h3><b>DevOps</b></h3></summary>
+          <p>
+            <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-090900?style=for-the-badge&logo=ubuntu&color=black"/>
+            <img alt="Debian" src="https://img.shields.io/badge/-Debian-090900?style=for-the-badge&logo=debian&logoColor=blue&color=black"/>
+            <img alt="Docker" src ="https://img.shields.io/badge/-Docker-090900?style=for-the-badge&logo=docker&logoColor=sky&color=black"/>
+            <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-090900?style=for-the-badge&logo=nginx&logoColor=32CD32&color=black"/>
           </p>
       </details>
       <details align="center">
@@ -123,9 +134,9 @@
           </p>
       </details>
       <details align="center">
-        <summary><h3><b>Python + Aiogram</b></h3></summary>
+        <summary><h3><b>Other</b></h3></summary>
           <p>
-            <img alt="Benizon" src="https://img.shields.io/badge/-Benizon-090909?style=for-the-badge&logo=Telegram"/>
+            <img alt="Benizon Shop" src="https://img.shields.io/badge/-Benizon_Shop-090909?style=for-the-badge&logo=Telegram"/>
           </p>
       </details>
     </p>
