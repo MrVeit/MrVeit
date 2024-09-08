@@ -76,8 +76,8 @@
           <img src ="https://img.shields.io/badge/-Unigram_Payment-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
         <a href="https://github.com/MrVeit/Veittech-UnigramAds">
           <img src ="https://img.shields.io/badge/-Unigram_Ads-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-UnigramAuth">
-          <img src ="https://img.shields.io/badge/-Unigram_Auth-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
+        <a href="https://github.com/MrVeit/Veittech-UnigramLogin">
+          <img src ="https://img.shields.io/badge/-Unigram_Login-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
       </details>
       <details align="center">
         <summary><h3><b>Simple Mobile Ads Integrator</b></h3></summary>
