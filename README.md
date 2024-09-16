@@ -62,6 +62,13 @@
             <img alt="Trello" src="https://img.shields.io/badge/-Trello-090900?style=for-the-badge&logo=trello&logoColor=blue&color=black"/>
           </p>
       </details>
+      <details align="center">
+        <summary><h3><b>Databases</b></h3></summary>
+          <p>
+              <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=PostgreSQL&logoColor=blue&color=black"/>
+              <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDB&logoColor=32CD32&color=black"/>
+          </p>
+      </details>
     </p>
 </details>
 
