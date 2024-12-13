@@ -34,9 +34,13 @@
             <img alt="Unity" src="https://img.shields.io/badge/-Unity-090900?style=for-the-badge&logo=unity&color=black"/>
             <img alt="WPF" src="https://img.shields.io/badge/-WPF-090900?style=for-the-badge&logo=dask&logoColor=blue&color=black"/>
             <img alt="Firebase (analytics, database)" src="https://img.shields.io/badge/-Firebase-090900?style=for-the-badge&logo=firebase&logoColor=yellow&color=black"/>
-            <img alt="Telegram Bot API" src="https://img.shields.io/badge/-Telegram_Bot_API-090900?style=for-the-badge&logo=telegram&logoColor=blue&color=black"/>
-            <img alt="Telegram Web App API" src="https://img.shields.io/badge/-Telegram_Web_App_API-090900?style=for-the-badge&logo=telegram&logoColor=blue&color=black"/>
-            <img alt="Ton Connect" src="https://img.shields.io/badge/-Ton Connect-090900?style=for-the-badge&logo=ton&logoColor=blue&color=black"/>
+            <img alt="Telegram Bot API" src="https://img.shields.io/badge/-TG_Bot_API-090900?style=for-the-badge&logo=telegram&logoColor=blue&color=black"/>
+            <img alt="Telegram Web App API" src="https://img.shields.io/badge/-TMA_API-090900?style=for-the-badge&logo=telegram&logoColor=blue&color=black"/>
+            <img alt="Ton Connect" src="https://img.shields.io/badge/-Ton_Connect-090900?style=for-the-badge&logo=ton&logoColor=blue&color=black"/>
+            <img alt="React JS" src="https://img.shields.io/badge/-React-090900?style=for-the-badge&logo=react&logoColor=blue&color=black"/>
+            <img alt="Vite" src="https://img.shields.io/badge/-Vite-090900?style=for-the-badge&logo=vite&logoColor=32CD32&color=black"/>
+            <img alt="Express JS" src="https://img.shields.io/badge/-Express-090900?style=for-the-badge&logo=express&logoColor=orange&color=black"/>
+            <img alt="Axios JS" src="https://img.shields.io/badge/-Axios-090900?style=for-the-badge&logo=axios&logoColor=32CD32&color=black"/>
           </p>
       </details>
       <details align="center">
