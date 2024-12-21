@@ -35,6 +35,7 @@
             <img alt="WPF" src="https://img.shields.io/badge/-WPF-090900?style=for-the-badge&logo=dask&logoColor=blue&color=black"/>
             <img alt="Firebase (analytics, database)" src="https://img.shields.io/badge/-Firebase-090900?style=for-the-badge&logo=firebase&logoColor=yellow&color=black"/>
             <img alt="Ton Connect" src="https://img.shields.io/badge/-Ton_Connect-090900?style=for-the-badge&logo=ton&logoColor=blue&color=black"/>
+            <img alt="Wallet Connect" src="https://img.shields.io/badge/-Wallet_Connect-090900?style=for-the-badge&logo=walletconnect&logoColor=blue&color=black"/>
             <img alt="React JS" src="https://img.shields.io/badge/-React-090900?style=for-the-badge&logo=react&logoColor=blue&color=black"/>
             <img alt="Vite" src="https://img.shields.io/badge/-Vite-090900?style=for-the-badge&logo=vite&logoColor=32CD32&color=black"/>
             <img alt="Express JS" src="https://img.shields.io/badge/-Express-090900?style=for-the-badge&logo=express&logoColor=orange&color=black"/>
