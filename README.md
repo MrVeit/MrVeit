@@ -3,7 +3,7 @@
     <p>
       <h2 align="center">I'm Veit - Freelancer<br>
       <img width="800" src="Assets/github_snake.svg" alt="snake"/><br><br>
-      Unity Game Developer, Web3 Enthusiast, Backend Developer (Node.js/Python)</h2>
+      Unity Game Developer, Web3 Enthusiast, Node.js Backend Developer</h2>
     </p>
 </details>
 
@@ -14,7 +14,6 @@
         <summary><h3><b>Programming languages</b></h3></summary>
           <p>
               <img alt="C#" src="https://img.shields.io/badge/-Csharp-090900?style=for-the-badge&logo=sharp&logoColor=FF00FF&color=black"/>
-              <img alt="Python" src="https://img.shields.io/badge/-Python-090900?style=for-the-badge&logo=python&logoColor=00BFFF&color=black"/>
               <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-090900?style=for-the-badge&logo=javascript&logoColor=FFFF00&color=black"/>
               <img alt="Node JS" src="https://img.shields.io/badge/-Node.Js-090900?style=for-the-badge&logo=nodedotjs&logoColor=32CD32&color=black"/>
           </p>
@@ -22,10 +21,9 @@
       <details align="center">
         <summary><h3><b>IDE</b></h3></summary>
           <p>
-              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=Visual_Studio&logoColor=9400D3&color=black"/>
-              <img alt="VS Code" src="https://img.shields.io/badge/VS Code-000000.svg?style=for-the-badge&logo=VS_Code&logoColor=1E90FF&color=black"/>
+              <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-000000.svg?style=for-the-badge&logo=sharp&logoColor=9400D3&color=black"/>
+              <img alt="VS Code" src="https://img.shields.io/badge/VS Code-000000.svg?style=for-the-badge&logo=javascript&logoColor=1E90FF&color=black"/>
               <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=DC143C&color=black"/>
-              <img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=FFFF00&color=black"/>
           </p>
       </details>
       <details align="center">
@@ -83,39 +81,16 @@
       <details align="center">
         <summary><h3><b>Telegram Libraries</b></h3></summary>
         <a href="https://github.com/MrVeit/Veittech-UnitonConnect">
-          <img src ="https://img.shields.io/badge/-Uniton_Connect-090900?style=for-the-badge&logo=ton&logoColor=#00FFFF"/></a>
+          <img src ="https://img.shields.io/badge/-Uniton_Connect-090900?style=for-the-badge&logo=ton&logoColor=#00FFFF"/>
+        </a>
         <a href="https://github.com/MrVeit/Veittech-UnigramPayment">
-          <img src ="https://img.shields.io/badge/-Unigram_Payment-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-UnigramAds">
-          <img src ="https://img.shields.io/badge/-Unigram_Ads-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-UnigramLogin">
-          <img src ="https://img.shields.io/badge/-Unigram_Login-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/></a>
+          <img src ="https://img.shields.io/badge/-Unigram_Payment-090900?style=for-the-badge&logo=telegram&logoColor=#00BFFF"/>
+        </a>
       </details>
       <details align="center">
         <summary><h3><b>Simple Mobile Ads Integrator</b></h3></summary>
         <a href="https://github.com/MrVeit/Veittech-SMAI-Appodeal">
           <img src ="https://img.shields.io/badge/-SMAI_(Appodeal)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMAI-Iron_Source">
-          <img src ="https://img.shields.io/badge/-SMAI_(Iron_Source)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMAI-CAS">
-          <img src ="https://img.shields.io/badge/-SMAI_(CAS)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMAI-Applovin">
-          <img src ="https://img.shields.io/badge/-SMAI_(Applovin_MAX)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMAI-Admob">
-          <img src ="https://img.shields.io/badge/-SMAI_(Admob)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMAI-Yandex-Ads">
-          <img src ="https://img.shields.io/badge/-SMAI_(Yandex_Ads)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-      </details>
-      <details align="center">
-        <summary><h3><b>Simple Mobile Events Logger</b></h3></summary>
-        <a href="https://github.com/MrVeit/Veittech-SMEL-Firebase">
-          <img src ="https://img.shields.io/badge/-SMEL_(Firebase)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMEL-Adjust">
-          <img src ="https://img.shields.io/badge/-SMEL_(Adjust)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMEL-AppsFlyer">
-          <img src ="https://img.shields.io/badge/-SMEL_(AppsFlyers)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
-        <a href="https://github.com/MrVeit/Veittech-SMEL-Yandex_Metric">
-          <img src ="https://img.shields.io/badge/-SMEL_(Yandex Metric)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
       </details>
     </p>
 </details>
