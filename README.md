@@ -90,7 +90,11 @@
       <details align="center">
         <summary><h3><b>Simple Mobile Ads Integrator</b></h3></summary>
         <a href="https://github.com/MrVeit/Veittech-SMAI-Appodeal">
-          <img src ="https://img.shields.io/badge/-SMAI_(Appodeal)-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/></a>
+          <img src ="https://img.shields.io/badge/-SMAI_Appodeal-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+        </a>
+        <a href="https://github.com/MrVeit/Veittech-SMAI-CAS">
+          <img src ="https://img.shields.io/badge/-SMAI_CAS-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
+        </a>
       </details>
     </p>
 </details>
@@ -101,10 +105,6 @@
        <details align="center">
         <summary><h3><b>Unity</b></h3></summary>
           <p>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.OnlyClimbOnline"><img src="https://img.shields.io/badge/-Only_Climb_Up-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.CuteCatsTennis"><img src="https://img.shields.io/badge/-Cat_Tennis-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.MergeMemes"><img src="https://img.shields.io/badge/-Merge Memes-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.VeiterioGames.ClimbingSimulator"><img src="https://img.shields.io/badge/-Hard_Climbing_Game-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/id6448569911"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.AtomicClick"><img src="https://img.shields.io/badge/Atomic_Click-090909?style=for-the-badge&logo=GooglePlay"></a>
@@ -118,12 +118,6 @@
             <a href="https://apps.apple.com/us/app/saunposium/id6475219261"><img src="https://img.shields.io/badge/Saunposium-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Hamasutra"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/hamasutra-fps-battle-royale/id6475219425"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=AppStore"></a>
-          </p>
-      </details>
-      <details align="center">
-        <summary><h3><b>Other</b></h3></summary>
-          <p>
-            <img alt="Benizon Shop" src="https://img.shields.io/badge/-Benizon_Shop-090909?style=for-the-badge&logo=Telegram"/>
           </p>
       </details>
     </p>
