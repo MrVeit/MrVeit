@@ -100,7 +100,7 @@
 </details>
 
 <details align="left">
-  <summary><h2><b>Projects in progress</b></h2></summary>
+  <summary><h2><b>Portfolio</b></h2></summary>
     <p>
        <details align="center">
         <summary><h3><b>Unity</b></h3></summary>
@@ -119,6 +119,11 @@
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Hamasutra"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/hamasutra-fps-battle-royale/id6475219425"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://t.me/MergeMemebot/play"><img src="https://img.shields.io/badge/Merge_Memes-090909?style=for-the-badge&logo=telegram"></a>
+          </p>
+      </details>
+      <details align="center">
+        <summary><h3><b>React</b></h3></summary>
+          <p>
           </p>
       </details>
     </p>
