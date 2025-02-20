@@ -119,6 +119,7 @@
             <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Hamasutra"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/hamasutra-fps-battle-royale/id6475219425"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://t.me/MergeMemebot/play"><img src="https://img.shields.io/badge/Merge_Memes-090909?style=for-the-badge&logo=telegram"></a>
+            <a href="https://t.me/hyyyyperbot/game"><img src="https://img.shields.io/badge/Hyyyyper-090909?style=for-the-badge&logo=telegram"></a>
           </p>
       </details>
       <details align="center">
