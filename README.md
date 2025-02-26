@@ -95,9 +95,6 @@
         <a href="https://github.com/MrVeit/Veittech-SMAI-Appodeal">
           <img src ="https://img.shields.io/badge/-SMAI_Appodeal-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
         </a>
-        <a href="https://github.com/MrVeit/Veittech-SMAI-CAS">
-          <img src ="https://img.shields.io/badge/-SMAI_CAS-090900?style=for-the-badge&logo=github&logoColor=#00BFFF"/>
-        </a>
       </details>
     </p>
 </details>
