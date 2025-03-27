@@ -3,7 +3,7 @@
     <p>
       <h2 align="center">I'm Veit - Freelancer<br>
       <img width="800" src="Assets/github_snake.svg" alt="snake"/><br><br>
-      Unity Game Developer & Web3 Enthusiast & NodeJS Backend Developer</h2>
+      Unity Game Developer & Fullstack Web Developer & Web3 Enthusiast</h2>
     </p>
 </details>
 
