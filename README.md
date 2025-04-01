@@ -15,6 +15,7 @@
           <p>
               <img alt="C#" src="https://img.shields.io/badge/-Csharp-090900?style=for-the-badge&logo=sharp&logoColor=FF00FF&color=black"/>
               <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-090900?style=for-the-badge&logo=javascript&logoColor=FFFF00&color=black"/>
+              <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-090900?style=for-the-badge&logo=typescript&logoColor=1E90FF&color=black"/>
               <img alt="Node JS" src="https://img.shields.io/badge/-Node.Js-090900?style=for-the-badge&logo=nodedotjs&logoColor=32CD32&color=black"/>
           </p>
       </details>
@@ -69,7 +70,7 @@
         <summary><h3><b>Databases</b></h3></summary>
           <p>
               <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=PostgreSQL&logoColor=blue&color=black"/>
-              <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDB&logoColor=32CD32&color=black"/>
+              <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDB&logoColor=32CD32&color=black"/>
           </p>
       </details>
     </p>
