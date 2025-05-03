@@ -106,21 +106,15 @@
        <details align="center">
         <summary><h3><b>Unity</b></h3></summary>
           <p>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutOut"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/id6448569911"><img src="https://img.shields.io/badge/-Put_Out-090909?style=for-the-badge&logo=AppStore"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.AtomicClick"><img src="https://img.shields.io/badge/Atomic_Click-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/atomic-click-tap-tap-clicker/id6475219288"><img src="https://img.shields.io/badge/Atomic_Click-090909?style=for-the-badge&logo=AppStore"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Difference"><img src="https://img.shields.io/badge/10_Difference-090909?style=for-the-badge&logo=GooglePlay"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.PutHunt"><img src="https://img.shields.io/badge/Put_Hunt-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/put-hunt-beat-politicians/id6475219389"><img src="https://img.shields.io/badge/Put_Hunt-090909?style=for-the-badge&logo=AppStore"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.MoveOut"><img src="https://img.shields.io/badge/Move_Out-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/move-out-parking-car-puzzle/id6475219309"><img src="https://img.shields.io/badge/Move_Out-090909?style=for-the-badge&logo=AppStore"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Saunposium.CatchJewelry"><img src="https://img.shields.io/badge/Saunposium-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/saunposium/id6475219261"><img src="https://img.shields.io/badge/Saunposium-090909?style=for-the-badge&logo=AppStore"></a>
-            <a href="https://play.google.com/store/apps/details?id=com.Logarithm.Games.Hamasutra"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=GooglePlay"></a>
             <a href="https://apps.apple.com/us/app/hamasutra-fps-battle-royale/id6475219425"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://t.me/MergeMemebot/play"><img src="https://img.shields.io/badge/Merge_Memes-090909?style=for-the-badge&logo=telegram"></a>
             <a href="https://t.me/hyyyyperbot/game"><img src="https://img.shields.io/badge/Hyyyyper-090909?style=for-the-badge&logo=telegram"></a>
+            <a href="https://t.me/virus_app_bot/launch"><img src="https://img.shields.io/badge/Project_VRS-090909?style=for-the-badge&logo=telegram"></a>
           </p>
       </details>
       <details align="center">
