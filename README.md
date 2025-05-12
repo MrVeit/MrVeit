@@ -1,9 +1,8 @@
 <details align="left">
   <summary><h2><b>About me</b></h2></summary>
     <p>
-      <h2 align="center">I'm Veit - Freelancer<br>
-      <img width="800" src="Assets/github_snake.svg" alt="snake"/><br><br>
-      Unity Game Developer & Fullstack Web Developer & Web3 Enthusiast</h2>
+      <h2 align="center">Unity Game Developer & Fullstack Web Developer & Web3 Enthusiast<br>
+      <img width="800" src="Assets/github_snake.svg" alt="snake"/><br></h2>
     </p>
 </details>
 
