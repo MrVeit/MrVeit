@@ -61,8 +61,7 @@
       <details align="center">
         <summary><h3><b>Management</b></h3></summary>
           <p>
-            <img alt="GitHub" src ="https://img.shields.io/badge/-GitHub-090900?style=for-the-badge&logo=github&logoColor=sky&color=black"/>
-            <img alt="Trello" src="https://img.shields.io/badge/-Trello-090900?style=for-the-badge&logo=trello&logoColor=blue&color=black"/>
+               <img alt="Trello" src="https://img.shields.io/badge/-Trello-090900?style=for-the-badge&logo=trello&logoColor=blue&color=black"/>
           </p>
       </details>
       <details align="center">
