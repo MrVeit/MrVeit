@@ -67,6 +67,7 @@
       <details align="center">
         <summary><h3><b>Databases</b></h3></summary>
           <p>
+              <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?style=for-the-badge&logo=MySQL&logoColor=f29209&color=black"/>
               <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?style=for-the-badge&logo=PostgreSQL&logoColor=blue&color=black"/>
               <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=MongoDB&logoColor=32CD32&color=black"/>
           </p>
