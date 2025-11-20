@@ -112,7 +112,7 @@
             <a href="https://apps.apple.com/us/app/saunposium/id6475219261"><img src="https://img.shields.io/badge/Saunposium-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://apps.apple.com/us/app/hamasutra-fps-battle-royale/id6475219425"><img src="https://img.shields.io/badge/Hamasutra-090909?style=for-the-badge&logo=AppStore"></a>
             <a href="https://t.me/MergeMemebot/play"><img src="https://img.shields.io/badge/Merge_Memes-090909?style=for-the-badge&logo=telegram"></a>
-            <a href="https://t.me/hyyyyperbot/game"><img src="https://img.shields.io/badge/Hyyyyper-090909?style=for-the-badge&logo=telegram"></a>
+            <a href="https://t.me/hyyyyper_game_bot/play"><img src="https://img.shields.io/badge/Hyyyyper-090909?style=for-the-badge&logo=telegram"></a>
             <a href="https://t.me/virus_app_bot/launch"><img src="https://img.shields.io/badge/Project_VRS-090909?style=for-the-badge&logo=telegram"></a>
           </p>
       </details>
