@@ -120,7 +120,8 @@
         <summary><h3><b>React</b></h3></summary>
           <p>
             <a href="https://t.me/test_tg_hunter_aperbot/hunt"><img src="https://img.shields.io/badge/TG_Hunter-090909?style=for-the-badge&logo=telegram"></a>
-            <a href=""><img src="https://img.shields.io/badge/Gifts_Watcher-090909?style=for-the-badge&logo=telegram"></a>
+            <a href="https://t.me/GiftsWatcherBot/launch"><img src="https://img.shields.io/badge/Gifts_Watcher-090909?style=for-the-badge&logo=telegram"></a>
+            <a href="https://t.me/CASEHUNT_BOT?start=refid736456922"><img src="https://img.shields.io/badge/Case_Hunt-090909?style=for-the-badge&logo=telegram"></a>
           </p>
       </details>
     </p>
